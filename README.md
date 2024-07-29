@@ -25,3 +25,4 @@
 ## Puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
