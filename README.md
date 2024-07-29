@@ -20,3 +20,8 @@
 ## Commits diarios
 
 ![Commits diarios](https://github-readme-streak-stats.herokuapp.com/?user=DvdMzz17&theme=radical)
+
+
+## Puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
